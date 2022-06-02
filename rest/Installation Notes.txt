@@ -1,0 +1,12 @@
+Put All files in xampp/htdocs
+
+then create a database in localhost/phpmyadmin by name of rest2 or any 
+
+import rest2.sql in localhost/phpmyadmin database in (name you created) 
+
+after that go to  application/config/database.php open it and change the details with your database credential on line 76
+
+for frontend changes files available in application/views and application/modules you can change as per you required
+
+css file and image files avalaible in assets/front
+
